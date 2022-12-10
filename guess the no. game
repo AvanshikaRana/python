@@ -30,4 +30,5 @@ while(True):
  number = str(number)
  print("\nBetter Luck next time") 
  print("Score is %d"%score)
- choice=input("Do you want to play again? yes-no :")
+ choice=input("Do you want to play again? yes-no :")# In given code there must be a indentation error,this game without run until the endentation error issue resolve
+ 
